@@ -1,1 +1,2 @@
-# antisos-setup-before-boot
+# ! OUTDATED ! 
+antisos-setup-before-boot
